@@ -1,0 +1,6 @@
+C:\Work\Claim\ClassesAndFunctions\CarShopping\bin\Debug\CarShopping.exe.config
+C:\Work\Claim\ClassesAndFunctions\CarShopping\obj\Debug\CarShopping.csprojResolveAssemblyReference.cache
+C:\Work\Claim\ClassesAndFunctions\CarShopping\bin\Debug\CarShopping.exe
+C:\Work\Claim\ClassesAndFunctions\CarShopping\bin\Debug\CarShopping.pdb
+C:\Work\Claim\ClassesAndFunctions\CarShopping\obj\Debug\CarShopping.exe
+C:\Work\Claim\ClassesAndFunctions\CarShopping\obj\Debug\CarShopping.pdb

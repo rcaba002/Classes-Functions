@@ -1,0 +1,5 @@
+C:\Work\Claim\ClassesAndFunctions\RecipeBuilder\bin\Debug\RecipeBuilder.exe.config
+C:\Work\Claim\ClassesAndFunctions\RecipeBuilder\bin\Debug\RecipeBuilder.exe
+C:\Work\Claim\ClassesAndFunctions\RecipeBuilder\bin\Debug\RecipeBuilder.pdb
+C:\Work\Claim\ClassesAndFunctions\RecipeBuilder\obj\Debug\RecipeBuilder.exe
+C:\Work\Claim\ClassesAndFunctions\RecipeBuilder\obj\Debug\RecipeBuilder.pdb
